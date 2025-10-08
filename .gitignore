@@ -47,3 +47,6 @@ debug.log
 
 # 不排除下列文件名
 !important_file.txt
+
+package-lock.json
+ruoyi-uniapp-plus.code-workspace
